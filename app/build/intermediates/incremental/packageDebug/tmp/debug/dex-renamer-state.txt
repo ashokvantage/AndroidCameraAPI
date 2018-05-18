@@ -1,0 +1,10 @@
+#Tue May 15 18:55:20 IST 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\ANdroid Studio workspace\\Client_Project\\AndroidCameraAPI\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.1=D\:\\ANdroid Studio workspace\\Client_Project\\AndroidCameraAPI\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.0=D\:\\ANdroid Studio workspace\\Client_Project\\AndroidCameraAPI\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13

@@ -1,0 +1,4 @@
+#Tue May 15 18:55:19 IST 2018
+base.0=D\:\\ANdroid Studio workspace\\Client_Project\\AndroidCameraAPI\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
